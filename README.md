@@ -51,6 +51,7 @@ Ads, "unintrusive" or not, are just the visible portion of the privacy-invading 
 * [Release History](#release-history)
 * [Translations](#translations)
 * [About](#about)
+<br/><br/>
 
 ## Documentation
 
@@ -76,6 +77,7 @@ Ads, "unintrusive" or not, are just the visible portion of the privacy-invading 
 Visit the [Wiki][Wiki] for documentation.
 
 For support, questions, or help, visit [/r/uBlockOrigin][Reddit].
+<br/><br/>
 
 ## Installation
 
@@ -117,13 +119,19 @@ Do **NOT** use uBO with any other content blocker. uBO [performs][Performance] a
 
 [Deploying uBO][Deployment]
 
+<br/><br/>
+
 ## Release History
 
 [Releases Page][Releases]
 
+<br/><br/>
+
 ## Translations
 
 Help translate uBO via [Crowdin][Crowdin].
+
+<br/><br/>
 
 ## About
 
@@ -189,4 +197,3 @@ If you ever want to contribute something, think about the people working hard to
 [Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
 [Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
 [Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
-
